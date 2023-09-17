@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/atgnpm%20install%20--save%20gh-pages/static/css/main.43cae00e.css",
+    "main.js": "/atgnpm%20install%20--save%20gh-pages/static/js/main.b73e39b5.js",
+    "static/js/787.089b21b5.chunk.js": "/atgnpm%20install%20--save%20gh-pages/static/js/787.089b21b5.chunk.js",
+    "static/media/Rectangle 2.png": "/atgnpm%20install%20--save%20gh-pages/static/media/Rectangle 2.3f74f04e7c586325d374.png",
+    "static/media/login-img.png": "/atgnpm%20install%20--save%20gh-pages/static/media/login-img.2ba3c9510ab22c75ccb2.png",
+    "index.html": "/atgnpm%20install%20--save%20gh-pages/index.html",
+    "static/media/google.svg": "/atgnpm%20install%20--save%20gh-pages/static/media/google.33c2ed801b835d9da906e69b13b8c65e.svg",
+    "main.43cae00e.css.map": "/atgnpm%20install%20--save%20gh-pages/static/css/main.43cae00e.css.map",
+    "main.b73e39b5.js.map": "/atgnpm%20install%20--save%20gh-pages/static/js/main.b73e39b5.js.map",
+    "787.089b21b5.chunk.js.map": "/atgnpm%20install%20--save%20gh-pages/static/js/787.089b21b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43cae00e.css",
+    "static/js/main.b73e39b5.js"
+  ]
+}
